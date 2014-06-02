@@ -15,7 +15,7 @@ gem 'coffee-rails', '~> 4.0.0'
 # gem 'therubyracer',  platforms: :ruby
 
 gem 'bootstrap-sass', '~>3.1.1' 
-gem 'faker'
+gem 'faker', '~> 1.3.0'
 gem "devise"
 
 # Use jquery as the JavaScript library
